@@ -91,7 +91,7 @@ Konteynerlar ikkita asosiy turga bo'linadi: ketma-ket va assotsiativ. Elementni 
 
 ## Chapter III
 
-- Dastur C++ 17 standarti C++ tilida gcc kompilyatoridan foydalangan holda ishlab chiqilishi kerak.
+- Dastur C++20 standarti C++ tilida gcc kompilyatoridan foydalangan holda ishlab chiqilishi kerak.
 
 - Dastur kodi src papkasida joylashgan bo'lishi kerak.
 
